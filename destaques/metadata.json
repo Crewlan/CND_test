@@ -8,6 +8,14 @@
         "url": "https://semparar.parceriasonline.com.br/allianz"
     },
     {
+        "iconeCard": "assets/images/old.png",
+        "iconeCardExt": "image/png",
+        "tituloGrande": "Allianz Vida",
+        "tituloPequeno": "Conheça as nossas coberturas para você e sua família.",
+        "ordemTela": 1,
+        "url": "https://semparar.parceriasonline.com.br/allianz"
+    },
+    {
         "iconeCard": "assets/images/airplane.png",
         "iconeCardExt": "image/png",
         "tituloGrande": "Allianz Viagem",
