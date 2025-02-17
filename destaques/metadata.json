@@ -2,24 +2,24 @@
     {
         "iconeCard": "assets/images/linkin_park.jpg",
         "iconeCardExt": "image/png",
-        "tituloPequeno": "Bora pro Show: Linkin Park",
-        "tituloGrande": "Concorra a um par de ingressos para o show no Allianz Parque",
+        "tituloGrande": "Bora pro Show: Linkin Park",
+        "tituloPequeno": "Concorra a um par de ingressos para o show no Allianz Parque",
         "ordemTela": 0,
         "url": "https://semparar.parceriasonline.com.br/allianz"
     },
     {
         "iconeCard": "assets/images/old.png",
         "iconeCardExt": "image/png",
-        "tituloPequeno": "Allianz Vida",
-        "tituloGrande": "Conheça as nossas coberturas para você e sua família.",
+        "tituloGrande": "Allianz Vida",
+        "tituloPequeno": "Conheça as nossas coberturas para você e sua família.",
         "ordemTela": 1,
         "url": "https://semparar.parceriasonline.com.br/allianz"
     },
     {
         "iconeCard": "assets/images/airplane.png",
         "iconeCardExt": "image/png",
-        "tituloPequeno": "Allianz Viagem",
-        "tituloGrande": "Conheça as nossas coberturas para sua viagem ser mais tranquila.",
+        "tituloGrande": "Allianz Viagem",
+        "tituloPequeno": "Conheça as nossas coberturas para sua viagem ser mais tranquila.",
         "ordemTela": 2,
         "url": "https://semparar.parceriasonline.com.br/allianz"
     }
