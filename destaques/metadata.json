@@ -2,25 +2,25 @@
     {
         "iconeCard": "assets/images/linkin_park.jpg",
         "iconeCardExt": "image/png",
-        "tituloGrande": "Bora pro Show: Linkin Park",
+        "tituloGrande": "Paul McCartney",
         "tituloPequeno": "Concorra a um par de ingressos para o show no Allianz Parque",
         "ordemTela": 0,
-        "url": "https://semparar.parceriasonline.com.br/allianz"
+        "url": "https://boraproshow.allianz.com.br/simply-red"
     },
     {
         "iconeCard": "assets/images/allianz_life.png",
         "iconeCardExt": "image/png",
-        "tituloGrande": "Allianz Vida",
+        "tituloGrande": "Allianz Vida!",
         "tituloPequeno": "Conheça as nossas coberturas para você e sua família.",
         "ordemTela": 1,
-        "url": "https://semparar.parceriasonline.com.br/allianz"
+        "url": "https://www.allianz.com.br/seguros/para-voce-e-sua-familia/vida.html"
     },
     {
         "iconeCard": "assets/images/airplane.png",
         "iconeCardExt": "image/png",
-        "tituloGrande": "Allianz Viagem",
-        "tituloPequeno": "Conheça as nossas coberturas para sua viagem ser mais tranquila.",
+        "tituloGrande": "Black Friday Allianz",
+        "tituloPequeno": "Prepare-se para aproveitar condições especiais para viajar.",
         "ordemTela": 2,
-        "url": "https://semparar.parceriasonline.com.br/allianz"
+        "url": "https://www.allianz.com.br/clube-de-descontos.html"
     }
 ]
